@@ -1,4 +1,4 @@
-# Hello, I'm Qi! 👋
+# Hello, I'm Qi!
 
 - ❤️ I have a genuine passion for data science and machine learning, constantly fascinated by how data can transform our understanding of the world!
 - 🔍 I enjoy solving challenges, experimenting with new techniques, and refining my expertise - there’s nothing quite like that "aha!" moment when things click!
